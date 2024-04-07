@@ -2,7 +2,7 @@
 
 Who doesn't like to manage their tasks in a textual interface in a black window from the 80s?
 
-Just kidding, it's just my attempt to write code in the C language, implement algorithms and stuff.
+Just kidding 😉, it's just my attempt to write code in the C language, implement algorithms and stuff.
 
 
 ## Command-Line Task Manager
